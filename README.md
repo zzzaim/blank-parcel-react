@@ -1,3 +1,3 @@
 # Blank JavaScript React project
 
-Add README here.
+A bare-bones React start project using [Parcel](https://parceljs.org/).
