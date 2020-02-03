@@ -1,3 +1,3 @@
 # Blank JavaScript React project
 
-A bare-bones React start project using [Parcel](https://parceljs.org/).
+A bare-bones React starter project using [Parcel](https://parceljs.org/).
