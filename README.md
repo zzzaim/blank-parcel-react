@@ -1,3 +1,3 @@
-# Blank JavaScript project
+# Blank JavaScript React project
 
 Add README here.
